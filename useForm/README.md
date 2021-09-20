@@ -8,5 +8,3 @@
     email: '',  }
   const [formValues, handleInputChange, reset] = useForm(initialForm);
 ```
-
-useCounter() // recibe un valor por defecto
