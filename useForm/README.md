@@ -3,7 +3,7 @@
 ### Ejemplo de uso:
 ```
   const initialForm = {
-    name = '',
+    name: '',
     age: 0,
     email: '',  }
   const [formValues, handleInputChange, reset] = useForm(initialForm);
